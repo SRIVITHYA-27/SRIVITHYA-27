@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @SRIVITHYA-27
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @SRIVITHYA
+- 👀 I’m interested in Data Analysis
+- 🌱 I’m currently acquiring knowledge and skills in Data Science 
+- 💞️ I’m looking to collaborate on different kind of begginer projects in Data science
+- Motivation: Be a hunter of learn new thing 
 
-<!---
-SRIVITHYA-27/SRIVITHYA-27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
